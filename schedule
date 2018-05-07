@@ -1,0 +1,16 @@
+目标：
+完成Bind逻辑
+(启动绑定的c监测进程程序
+运行exe并处理运行情况
+重定向io流
+io写入文件)
+Bind JNI to .h
+完成.c
+编译生成.so
+链接
+
+已完成：
+C_core
+TESTmodel
+basic c and java link
+basic function interface
